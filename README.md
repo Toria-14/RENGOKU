@@ -1,4 +1,4 @@
-Android Project Grp3
+Android Project Grp3 :
 A SIMPLE CALCULATOR
 
 OPARA VICTORIA
